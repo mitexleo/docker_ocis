@@ -1,5 +1,5 @@
   ocis:
-    image: owncloud/ocis:5
+    image: owncloud/ocis:7.0.0
     user: 1280:1280
     ports:
       - 9500:9200
